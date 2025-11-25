@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#5383EC</color>
+    <color name="primary_dark">#3D6AD6</color>
+    <color name="primary_light">#7BA3F7</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">#F8F9FB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="search_background">#F2F3F7</color>
+    <color name="image_background">#F8F9FA</color>
+    <color name="card_border">#E8E9EC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#181725</color>
+    <color name="text_secondary">#7C7C7C</color>
+    <color name="text_tertiary">#B3B3B3</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_background">#EEF4FF</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#F8F9FB</color>
+</resources>
